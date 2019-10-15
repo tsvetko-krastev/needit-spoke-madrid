@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property" label="Property" language="en" table="var__m_sys_hub_action_input_70a8a3ecdbe000103613196c2996195c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property</element>
+            <help/>
+            <hint/>
+            <label>Property</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_70a8a3ecdbe000103613196c2996195c</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>tsvetko.krastev@doitwise.com</sys_created_by>
+            <sys_created_on>2019-10-15 07:53:41</sys_created_on>
+            <sys_id>d632a374db2000103613196c2996194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Property</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_410070_needit_sp">d8f763acdbe000103613196c2996192a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">d8f763acdbe000103613196c2996192a</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_70a8a3ecdbe000103613196c2996195c_property_en</sys_update_name>
+            <sys_updated_by>tsvetko.krastev@doitwise.com</sys_updated_by>
+            <sys_updated_on>2019-10-15 07:53:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

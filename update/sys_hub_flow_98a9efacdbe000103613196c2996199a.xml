@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"dec3ff92-05c5-4c8b-bc83-8231d5bb1c75.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>tsvetko.krastev@doitwise.com</sys_created_by>
+        <sys_created_on>2019-10-14 13:47:34</sys_created_on>
+        <sys_id>98a9efacdbe000103613196c2996199a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_410070_needit_sp">d8f763acdbe000103613196c2996192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">d8f763acdbe000103613196c2996192a</sys_scope>
+        <sys_update_name>sys_hub_flow_98a9efacdbe000103613196c2996199a</sys_update_name>
+        <sys_updated_by>tsvetko.krastev@doitwise.com</sys_updated_by>
+        <sys_updated_on>2019-10-15 08:15:30</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=98a9efacdbe000103613196c2996199a"/>
+    <sys_variable_value action="delete_multiple" query="document_key=98a9efacdbe000103613196c2996199a"/>
+</record_update>

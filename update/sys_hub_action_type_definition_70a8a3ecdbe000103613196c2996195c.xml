@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Get the value of an application property.
+</description>
+        <internal_name>get_property</internal_name>
+        <label_cache>[{"name":"{{action.property}}","label":"action➛Property","type":"action","ref":""},{"name":"{{step[6579f018-9c6d-407b-8133-1e8e62482d83].property_value}}","label":"step➛Look up Application Property➛property_value","type":"step","ref":""}]</label_cache>
+        <latest_snapshot>b765a7f4db2000103613196c29961921</latest_snapshot>
+        <master_snapshot>4875a7f4db2000103613196c2996197c</master_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>tsvetko.krastev@doitwise.com</sys_created_by>
+        <sys_created_on>2019-10-14 13:43:13</sys_created_on>
+        <sys_id>70a8a3ecdbe000103613196c2996195c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_410070_needit_sp">d8f763acdbe000103613196c2996192a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">d8f763acdbe000103613196c2996192a</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_70a8a3ecdbe000103613196c2996195c</sys_update_name>
+        <sys_updated_by>tsvetko.krastev@doitwise.com</sys_updated_by>
+        <sys_updated_on>2019-10-15 08:07:45</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=70a8a3ecdbe000103613196c2996195c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=70a8a3ecdbe000103613196c2996195c"/>
+    <sys_element_mapping action="delete_multiple" query="id=70a8a3ecdbe000103613196c2996195c"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>property_value</field>
+        <id>70a8a3ecdbe000103613196c2996195c</id>
+        <sys_created_by>tsvetko.krastev@doitwise.com</sys_created_by>
+        <sys_created_on>2019-10-15 08:05:51</sys_created_on>
+        <sys_id>2c0523f4db2000103613196c29961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>tsvetko.krastev@doitwise.com</sys_updated_by>
+        <sys_updated_on>2019-10-15 08:05:51</sys_updated_on>
+        <table>var__m_sys_hub_action_output_70a8a3ecdbe000103613196c2996195c</table>
+        <value>{{step[6579f018-9c6d-407b-8133-1e8e62482d83].property_value}}</value>
+    </sys_element_mapping>
+</record_update>
